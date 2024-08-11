@@ -224,7 +224,7 @@ footer {
 }
 
 @media (max-width: 425px) {
-    p {
+    .descricao p {
         line-height: 2;
         word-spacing: 2px;
         hyphens: auto;
