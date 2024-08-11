@@ -188,6 +188,7 @@ p, a {
 
 .botao p {
     text-decoration: none;
+    text-align: center;
     color: #fff;
 }
 
